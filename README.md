@@ -41,6 +41,10 @@
 
 - 多部门分流接待：客户咨询不同业务时，自动转接至对应部门人工坐席，提升接待效率。
 
+- 页面截图
+  <img width="1745" height="797" alt="image" src="https://github.com/user-attachments/assets/84fa62e3-b611-4004-8e48-61dc544fb45e" />
+
+
 🔧 快速开始
 
 1. 导入通讯录：上传企业通讯录文件。
